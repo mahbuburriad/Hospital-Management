@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1418624876 source:c:\users\md.mahbubur\dropbox\4th semester\cse 225l - mle (saad abdullah)\c++ program file\hm_project\main.cpp
+	"HotelManagement.h"
+	<iostream>
+	<cstdlib>
+
+1418596238 source:c:\users\md.mahbubur\dropbox\4th semester\cse 225l - mle (saad abdullah)\c++ program file\hm_project\hotelmanagement.cpp
+	"HotelManagement.h"
+	<iostream>
+	<cstdlib>
+
+1418592540 c:\users\md.mahbubur\dropbox\4th semester\cse 225l - mle (saad abdullah)\c++ program file\hm_project\hotelmanagement.h
+	<iostream>
+	<cstdlib>
+
